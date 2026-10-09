@@ -1,0 +1,40 @@
+
+[
+  {
+    "name": "Wireless Headphones",
+    "price": 1299.90,
+    "category": "Electronics",
+    "icon": "headphones"
+  },
+  {
+    "name": "Smart Watch",
+    "price": 2499.90,
+    "category": "Electronics",
+    "icon": "watch"
+  },
+  {
+    "name": "Running Shoes",
+    "price": 1899.90,
+    "category": "Fashion",
+    "icon": "directions_run"
+  },
+  {
+    "name": "Backpack",
+    "price": 799.90,
+    "category": "Fashion",
+    "icon": "backpack"
+  },
+  {
+    "name": "Camera",
+    "price": 5499.90,
+    "category": "Electronics",
+    "icon": "camera_alt"
+  },
+  {
+    "name": "Sunglasses",
+    "price": 599.90,
+    "category": "Accessories",
+    "icon": "wb_sunny"
+  }
+]
+
